@@ -1,0 +1,29 @@
+id: PBD55AA4B
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1GS58450
+  instance_id: http://purl.bdrc.io/resource/IE1GS58450
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རིག་རྩོམ་སྐད་ཆའི་རིགས་དང་རྩོམ་འཇུག་གི་རྣམ་གཞག་རིན་ཆེན་སིལ་མ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P10084
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    7855db655db84650a23697735efab083:
+      title: པོད ༡་རིག་རྩོམ་སྐད་ཆའི་རིགས་དང་རྩོམ་འཇུག་གི་རྣམ་གཞག་རིན་ཆེན་སིལ་མ
+      volume_number: 1
+      base_file: UT1GS58450_I1GS58452_0000.txt
+      reference: http://purl.bdrc.io/resource/VL4E4D449CD1B9A8E5
+      image_group: I1GS58452
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1GS58450
+  - http://purl.bdrc.io/resource/MW1GS58450
+  ocr_software: Namsel
+created_at: '2021-12-22T10:27:26.930092'
+last_modified_at: '2021-12-22T10:27:26.930098'
